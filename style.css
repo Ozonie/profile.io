@@ -28,23 +28,14 @@ h1{
     margin: auto;
     text-align: center;
     background-color: white;
+    
 }
 
-
-#presentation {
-    border: 3px dotted black;
-    background-color: white;
-}
 
 #line {
     color: orange;
 }
 
 .contact {
-    background-color: orange;
-}
-
-#Tennis {
-    border: 3px dotted rgb(255, 255, 255) ;
     background-color: orange;
 }
