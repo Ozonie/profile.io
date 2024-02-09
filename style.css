@@ -9,6 +9,7 @@ h1{
 
 .overview {
     margin: 40px 40px 30px 30px;
+    background-color: rgb(195, 209, 221);
 }
 
 .box-shadow {
@@ -26,6 +27,7 @@ h1{
 .container {
     margin: auto;
     text-align: center;
+    background-color: white;
 }
 
 
